@@ -1,8 +1,16 @@
 export const TermsData = [
-  'I solemnly declare that I am participating in this mad adventure called ECO PAW, fully aware that it is the greatest scam ever created. I am willing to risk my financial wisdom (or perhaps its absence) for the sheer thrill of gambling.',
-  'I acknowledge that ECO PAW could make my savings vanish faster than a magician making a rabbit disappear from a hat. I will not blame ECO PAW if I find myself borrowing money from relatives and friends to buy this senseless cryptocurrency. It will be solely my fault and a testament to my passion for scams.',
-  "I declare that I consider ECO PAW to be an honest, sincere, and extravagant person, although the term 'honesty' might undergo a dramatic redefinition in the context of this fraudulent adventure.",
-  'I am aware that investing in ECO PAW could make me a master of financial illusion as I convince other weak minds to buy ECO PAW Coin. Hence, I promise to use this skill solely for personal gain.',
-  'I accept that purchasing ECO PAW could lead me to a life of a fraudster. Yes, I have decided to become a scammer and join forces with ECO PAW to create an army of other scammers to scam others.',
-  'I understand that all of this is just a cosmic-scale farce. I will not take any warnings or advice regarding ECO PAW seriously because who would take seriously a cryptocurrency with such a name?',
+  'Buyers may purchase Tokens through the designated platform provided by the Issuer.',
+  'Purchases may be subject to Know Your Customer (KYC) and Anti-Money Laundering (AML) checks, as required by applicable laws and regulations.',
+  'Upon successful purchase, buyers will receive ownership rights to the Tokens.',
+  'Ownership of Tokens may be transferred to another party subject to the terms and conditions outlined by the Issuer.',
+  'Buyers acknowledge and accept the inherent risks associated with cryptocurrency investments, including but not limited to market volatility, regulatory changes, and cybersecurity risks.',
+  'Buyers are advised to conduct thorough research and seek professional advice before purchasing Tokens.',
+  'Buyers represent and warrant that they are legally authorized and capable of entering into cryptocurrency transactions in their jurisdiction.',
+  'Buyers agree to comply with all applicable laws and regulations governing cryptocurrency transactions.',
+  'The Issuer makes no warranties or representations regarding the value, performance, or suitability of the Tokens for any particular purpose.',
+  'To the fullest extent permitted by law, the Issuer disclaims all liability for any losses or damages incurred by buyers as a result of purchasing or owning Tokens.',
+  'Buyers agree to indemnify and hold harmless the Issuer, its affiliates, and their respective directors, officers, employees, and agents from and against any claims, losses, or liabilities arising from the purchase or ownership of Tokens.',
+  'These Terms constitute the entire agreement between the parties regarding the purchase of Tokens and supersede all prior agreements and understandings.',
+  'No modification, amendment, or waiver of these Terms shall be effective unless in writing and signed by both parties.',
+  'By purchasing Tokens, buyers acknowledge that they have read, understood, and accepted these Terms in their entirety.'
 ]

@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const EcopawSection = () => {
+const DescriptionSection = () => {
   return (
     <div className="bg-[url(/images/bg-who.png)] bg-cover bg-center p-4">
       <div className="w-full justify-center relative font-manrope max-w-[1280px] mx-auto">
@@ -100,4 +100,4 @@ const EcopawSection = () => {
   )
 }
 
-export default EcopawSection
+export default DescriptionSection

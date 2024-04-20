@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const EcopawScamSection = () => {
+const EcopawSection = () => {
   return (
     <div className="bg-[url(/images/bg-different-section.png)] bg-center bg-cover">
       <div className="py-[102px] xl:px-20 md:px-10 px-4 flex lg:flex-row flex-col justify-between gap-10 max-w-[1440px] mx-auto">
@@ -63,4 +63,4 @@ const EcopawScamSection = () => {
   )
 }
 
-export default EcopawScamSection
+export default EcopawSection

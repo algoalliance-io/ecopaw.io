@@ -38,7 +38,7 @@ const TermsCondition = () => {
             Terms and conditions
           </h4>
           <p className="text-dark-2/80 sm:text-base text-sm leading-[22px] font-semibold">
-            Last revised: 19 May 2023
+            Last revised: 20 April 2024
           </p>
         </div>
         <div className="md:mt-16 mt-10">
