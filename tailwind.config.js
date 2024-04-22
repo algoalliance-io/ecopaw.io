@@ -24,7 +24,6 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       fontFamily: {
-        'comic-neue': ['var(--font-comic-neue)', 'cursive', 'sans-serif'],
         manrope: ['var(--font-manrope)', 'sans-serif'],
         space: ['var(--font-space-grotesk)', 'sans-serif'],
       },

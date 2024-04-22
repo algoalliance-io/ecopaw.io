@@ -1,16 +1,10 @@
 import React from 'react'
 import Script from 'next/script'
-import { Comic_Neue, Manrope, Space_Grotesk } from 'next/font/google'
+import { Manrope, Space_Grotesk } from 'next/font/google'
 import clsx from 'clsx'
 import { Config } from '@/config'
 // import ContextProviders from '@/components/context-providers'
 import './globals.css'
-
-const comicNeue = Comic_Neue({
-  variable: '--font-comic-neue',
-  subsets: ['latin'],
-  weight: ['300', '400', '700'],
-})
 
 const manrope = Manrope({
   variable: '--font-manrope',
@@ -60,10 +54,9 @@ export default function RootLayout({
       </head>
       <body
         className={clsx(
-          comicNeue.variable,
           manrope.variable,
           spaceGrotesk.variable,
-          'font-comic-neue',
+          'font-manrope',
         )}
       >
         {/* Google Tag Manager (noscript) */}
