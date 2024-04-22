@@ -41,7 +41,7 @@ const HeaderComponent = () => {
           height={44}
           className="flex-shrink-0 rounded-full object-cover w-auto h-auto"
         />
-        <h3 className="font-bold text-xl text-white">ECO PAW</h3>
+        <h3 className="font-bold text-xl text-white font-space">ECO PAW</h3>
       </Link>
       <div
         className={clsx(

@@ -17,11 +17,11 @@ const Footer = () => {
                 height={44}
                 className="flex-shrink-0 rounded-full object-cover w-auto h-auto"
               />
-              <h3 className="font-bold text-xl text-dark-1 font-comic-neue">
+              <h3 className="font-bold text-xl text-dark-1 font-space">
                 ECO PAW
               </h3>
             </div>
-            <p className="md:text-base text-sm font-medium text-dark-6 mt-6 leading-[21.86px]">
+            <p className="md:text-base text-sm font-medium text-dark-6 mt-6 leading-[21.86px] font-space">
               Revolutionising The Pet Care Ecosystem
             </p>
           </div>
