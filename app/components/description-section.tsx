@@ -85,8 +85,8 @@ const DescriptionSection = () => {
               consume and in funding eco-friendly projects, from reforestation efforts to
               wildlife protection. This commitment to sustainability not only supports the
               planet but also offers a greener option for crypto enthusiasts who are conscious
-              of their environmental impact. With EcoPaw, sustainability isn't just a feature—
-              it's the foundation of our mission to harmonize cryptocurrency with ecological
+              of their environmental impact. With EcoPaw, sustainability isn&apos;t just a feature—
+              it&apos;s the foundation of our mission to harmonize cryptocurrency with ecological
               responsibility.
             </p>
           </div>

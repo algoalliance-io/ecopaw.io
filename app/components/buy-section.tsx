@@ -54,11 +54,11 @@ const BuySection = () => {
           </b>
           <p>
             Purchasing EcoPaw Coin is more than an
-            investment in cryptocurrency; it's a step towards a sustainable future. EcoPaw is
+            investment in cryptocurrency; it&apos;s a step towards a sustainable future. EcoPaw is
             committed to funding projects that enhance animal welfare and protect the
             environment, ensuring that every coin spent contributes directly to sustainable
             initiatives. This approach allows investors and users to participate actively in
-            crucial conservation efforts, using blockchain's power to make a meaningful,
+            crucial conservation efforts, using blockchain&apos;s power to make a meaningful,
             positive impact on the planet.
           </p>
         </div>
@@ -86,7 +86,7 @@ const BuySection = () => {
             <span className="text-primary">4.</span> Community/DAO:
           </b>
           <p>
-            EcoPaw Coin is not just a cryptocurrency; it's a vibrant,
+            EcoPaw Coin is not just a cryptocurrency; it&apos;s a vibrant,
             engaged community united by a shared passion for animal welfare and
             environmental conservation. By purchasing EcoPaw, you become part of a
             global network of like-minded individuals who are actively involved in shaping
