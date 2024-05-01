@@ -44,7 +44,7 @@ const Footer = () => {
               />
               <Link
                 href={
-                  'https://bscscan.com/token/0xc0a934E793C2887456b886bCB6dDE63A7Ce6B8D0'
+                  'https://bscscan.com/token/0x7a5e18b12709ce0b36ed156d4dc309821f3c97b9'
                 }
                 target="_blank"
               >
