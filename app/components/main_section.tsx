@@ -6,13 +6,11 @@ import { FaDiscord } from 'react-icons/fa'
 const MainSection = () => {
   return (
     <div className="h-auto w-ful bg-[url(/images/bg-hero.png)] bg-cover bg-center">
-      <div className="lg:h-[815px] md:h-[900px] sm:h-[750px] h-[650px] w-full">
+      <div className="lg:h-[615px] md:h-[700px] sm:h-[550px] h-[550px] w-full">
         <div className="max-w-[1440px] mx-auto">
           <div className="lg:w-full max-w-[1071px] lg:mx-auto text-center lg:text-[64px] lg:leading-[72px] font-bold sm:text-5xl sm:leading-[56px] leading-[42px] text-[34px] sm:mx-10 mx-5 sm:pt-[155px] pt-[171px] text-dark-1 font-space">
-            <span className="text-dark-1/80">Elon Musk said:</span>
             <div className="relative">
-              &ldquo;He who controls the memes controls the world!&rdquo;, but
-              Eco Paw also wants to guide the world towards a greener, more
+              Eco Paw wants to guide the world towards a greener, more
               human-friendly future.
             </div>
           </div>

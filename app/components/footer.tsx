@@ -28,20 +28,30 @@ const Footer = () => {
           <div className="flex flex-grow w-full gap-10 justify-between max-w-[800px] md:flex-nowrap flex-wrap">
             <div className="leading-[21.86px] flex flex-col gap-4">
               <p className="font-bold text-base text-dark-1">Token Price</p>
-              <Image
-                src={'/images/coincap-footer.png'}
-                alt="coin"
-                width={124}
-                height={36}
-                className="w-auto h-auto"
-              />
-              <Image
-                src={'/images/coin-gecko-footer.png'}
-                alt="coin"
-                width={124}
-                height={36}
-                className="w-auto h-auto"
-              />
+              <div className="leading-[21.86px] flex flex-row">
+                <div className="px-4 py-1.5 rounded-full w-fit font-medium border border-dark-2/80 text-dark-1">
+                  Coming Soon
+                </div>
+                <Image
+                  src={'/images/coincap-footer.png'}
+                  alt="coin"
+                  width={124}
+                  height={36}
+                  className="w-auto h-auto"
+                />
+              </div>
+              <div className="leading-[21.86px] flex flex-row">
+                <div className="px-4 py-1.5 rounded-full w-fit font-medium border border-dark-2/80 text-dark-1">
+                  Coming Soon
+                </div>
+                <Image
+                  src={'/images/coin-gecko-footer.png'}
+                  alt="coin"
+                  width={124}
+                  height={36}
+                  className="w-auto h-auto"
+                />
+              </div>
               <Link
                 href={
                   'https://bscscan.com/token/0x7a5e18b12709ce0b36ed156d4dc309821f3c97b9'
@@ -59,6 +69,9 @@ const Footer = () => {
             </div>
             <div className="leading-[21.86px] flex flex-col gap-4">
               <p className="font-bold text-base text-dark-1">Token Listing</p>
+              <div className="px-4 py-1.5 rounded-full w-fit text-base font-medium border border-dark-2/80 text-dark-1">
+                Coming Soon
+              </div>
               <Image
                 src={'/images/panckswap-footer.png'}
                 alt="coin"
