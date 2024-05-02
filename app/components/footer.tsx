@@ -29,9 +29,6 @@ const Footer = () => {
             <div className="leading-[21.86px] flex flex-col gap-4">
               <p className="font-bold text-base text-dark-1">Token Price</p>
               <div className="leading-[21.86px] flex flex-row">
-                <div className="px-4 py-1.5 rounded-full w-fit font-medium border border-dark-2/80 text-dark-1">
-                  Coming Soon
-                </div>
                 <Image
                   src={'/images/coincap-footer.png'}
                   alt="coin"
@@ -39,11 +36,11 @@ const Footer = () => {
                   height={36}
                   className="w-auto h-auto"
                 />
-              </div>
-              <div className="leading-[21.86px] flex flex-row">
-                <div className="px-4 py-1.5 rounded-full w-fit font-medium border border-dark-2/80 text-dark-1">
+                <div className="px-4 py-1.5 rounded-full w-fit font-small border border-dark-2/80 text-dark-1">
                   Coming Soon
                 </div>
+              </div>
+              <div className="leading-[21.86px] flex flex-row">
                 <Image
                   src={'/images/coin-gecko-footer.png'}
                   alt="coin"
@@ -51,6 +48,9 @@ const Footer = () => {
                   height={36}
                   className="w-auto h-auto"
                 />
+                <div className="px-4 py-1.5 rounded-full w-fit font-small border border-dark-2/80 text-dark-1">
+                  Coming Soon
+                </div>
               </div>
               <Link
                 href={
@@ -69,16 +69,18 @@ const Footer = () => {
             </div>
             <div className="leading-[21.86px] flex flex-col gap-4">
               <p className="font-bold text-base text-dark-1">Token Listing</p>
-              <div className="px-4 py-1.5 rounded-full w-fit text-base font-medium border border-dark-2/80 text-dark-1">
-                Coming Soon
+              <div className="leading-[21.86px] flex flex-row">
+                <Image
+                  src={'/images/panckswap-footer.png'}
+                  alt="coin"
+                  width={124}
+                  height={36}
+                  className="w-auto h-auto"
+                />
+                <div className="px-4 py-1.5 rounded-full w-fit text-base font-small border border-dark-2/80 text-dark-1">
+                  Coming Soon
+                </div>
               </div>
-              <Image
-                src={'/images/panckswap-footer.png'}
-                alt="coin"
-                width={124}
-                height={36}
-                className="w-auto h-auto"
-              />
             </div>
             <div className="leading-[21.86px] flex flex-col gap-4">
               <p className="font-bold text-base text-dark-1">Token Details</p>

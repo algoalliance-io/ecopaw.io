@@ -118,3 +118,12 @@ body {
 .contentBlock--one:last-of-type {
   margin-right: 36px;
 }
+
+.font-small {
+  font-size: 9px;
+  padding: 0 5px;
+  height: 25px;
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
