@@ -12,15 +12,19 @@ const DescriptionSection = () => {
             </h2>
             <div className="font-manrope sm:text-lg text-sm font-medium text-dark-2/80 gap-5 flex flex-col mt-12 sm:leading-[25px] leading-[19px]">
               <p>
-                Eco Paw is not just a captivating Border Collie at the heart of this Bull Run&apos;s most engaging meme coin; it&apos;s a movement.
+                Eco Paw is not just a captivating Border Collie at the heart of
+                this Bull Run&apos;s most engaging meme coin; it&apos;s a
+                movement.
               </p>
               <p>
-              Designed for those who treasure their furry friends and the planet, EcoPaw Coin
-              fuels a blockchain-based ecosystem that’s all about positive action. Every
-              transaction supports animal welfare and champions environmental sustainability,
-              making it the perfect choice for pet lovers and eco-warriors alike. It’s crypto with
-              a conscience, where the well-being of pets and the health of our planet go
-              hand in hand.
+                Designed for those who treasure their furry friends and the
+                planet, EcoPaw Coin fuels a blockchain-based ecosystem
+                that&apos;s all about positive action. Every transaction
+                supports animal welfare and champions environmental
+                sustainability, making it the perfect choice for pet lovers and
+                eco-warriors alike. It&apos;s crypto with a conscience, where
+                the well-being of pets and the health of our planet go hand in
+                hand.
               </p>
             </div>
           </div>
@@ -58,14 +62,16 @@ const DescriptionSection = () => {
               cryptocurrency venture;
             </p>
             <p className="text-dark-2 font-medium text-sm font-manrope">
-            Investors in EcoPaw Coin aren’t just backing a cryptocurrency; they’re joining a
-            forward-thinking community committed to creating a tangible impact. With
-            EcoPaw, investors have the opportunity to support a project that integrates pet
-            care with environmental conservation, all powered by blockchain technology. It’s
-            an investment that looks beyond mere financial returns to foster a healthier
-            world for pets and a greener planet for everyone. By choosing EcoPaw,
-            investors are placing their trust in a future where finance and philanthropy work
-            in harmony.
+              Investors in EcoPaw Coin aren&apos;t just backing a
+              cryptocurrency; they&apos;re joining a forward-thinking community
+              committed to creating a tangible impact. With EcoPaw, investors
+              have the opportunity to support a project that integrates pet care
+              with environmental conservation, all powered by blockchain
+              technology. It&apos;s an investment that looks beyond mere
+              financial returns to foster a healthier world for pets and a
+              greener planet for everyone. By choosing EcoPaw, investors are
+              placing their trust in a future where finance and philanthropy
+              work in harmony.
             </p>
           </div>
         </div>
@@ -78,16 +84,18 @@ const DescriptionSection = () => {
               How we think about sustainability in the digital age.
             </p>
             <p className="text-dark-2 font-medium text-sm font-manrope">
-              EcoPaw Coin stands at the forefront of sustainable crypto initiatives, embodying
-              an ethos where every digital transaction contributes to real-world environmental
-              preservation and traceability. By utilizing blockchain technology, EcoPaw
-              ensures transparency and efficiency, tracking all aliments that our Lovet pets
-              consume and in funding eco-friendly projects, from reforestation efforts to
-              wildlife protection. This commitment to sustainability not only supports the
-              planet but also offers a greener option for crypto enthusiasts who are conscious
-              of their environmental impact. With EcoPaw, sustainability isn&apos;t just a feature—
-              it&apos;s the foundation of our mission to harmonize cryptocurrency with ecological
-              responsibility.
+              EcoPaw Coin stands at the forefront of sustainable crypto
+              initiatives, embodying an ethos where every digital transaction
+              contributes to real-world environmental preservation and
+              traceability. By utilizing blockchain technology, EcoPaw ensures
+              transparency and efficiency, tracking all aliments that our Lovet
+              pets consume and in funding eco-friendly projects, from
+              reforestation efforts to wildlife protection. This commitment to
+              sustainability not only supports the planet but also offers a
+              greener option for crypto enthusiasts who are conscious of their
+              environmental impact. With EcoPaw, sustainability isn&apos;t just
+              a feature— it&apos;s the foundation of our mission to harmonize
+              cryptocurrency with ecological responsibility.
             </p>
           </div>
         </div>

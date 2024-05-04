@@ -24,7 +24,7 @@ const HeaderComponent = () => {
   return (
     <div
       className={clsx(
-        'md:px-12 px-8 py-[18px] h-20 shadow flex items-center justify-between gap-10 fixed header bg-dark-1/[12%] w-[calc(100%-24px)] sm:w-[calc(100%-20%)] lg:w-[calc(100%-40%)] rounded-xl sm:rounded-2xl backdrop-blur-lg inset-0 top-3 sm:top-5 mx-auto ',
+        'md:px-12 px-6 py-[18px] h-20 shadow flex items-center justify-between gap-10 fixed header bg-dark-1/[12%] w-[calc(100%-24px)] sm:w-[calc(100%-20%)] lg:w-[calc(100%-5%)] max-w-7xl mx-auto rounded-xl sm:rounded-2xl backdrop-blur-lg inset-0 top-3 sm:top-5',
         show &&
           pathname !== '/terms-condition' &&
           'bg-dark-3/50 backdrop-blur-lg',
@@ -41,25 +41,37 @@ const HeaderComponent = () => {
           height={44}
           className="flex-shrink-0 rounded-full object-cover w-auto h-auto"
         />
-        <h3 className="font-bold text-xl text-white font-space">ECO PAW</h3>
+        <h3 className="font-bold text-sm sm:text-xl text-white font-space">
+          ECO PAW
+        </h3>
       </Link>
-      <div
-        className={clsx(
-          'flex items-center gap-2 rounded-[4px] h-10 w-20 justify-center',
-          pathname === '/terms-condition' ? 'bg-black/20' : 'bg-black/20',
-        )}
-      >
-        <Image
-          src="/images/british_flag.png"
-          alt="flag"
-          width={33}
-          height={20}
-          className="flex-shrink-0 flex w-auto h-5"
-        />
-        <span className={clsx('font-manrope text-xs font-semibold text-white')}>
-          Eng
-        </span>
-        {/* <FaChevronDown className="h-5 w-5 cursor-pointer text-white" /> */}
+      <div className="flex gap-4">
+        <Link
+          href="/eco-paw-presale"
+          className="font-manrope font-semibold text-dark-7 py-2 px-7 rounded-full flex items-center justify-center bg-white"
+        >
+          Join Presale
+        </Link>
+        <div
+          className={clsx(
+            'hidden sm:flex min-w-max items-center gap-2 rounded-[4px] h-10 w-20 justify-center',
+            pathname === '/terms-condition' ? 'bg-black/20' : 'bg-black/20',
+          )}
+        >
+          <Image
+            src="/images/british_flag.png"
+            alt="flag"
+            width={33}
+            height={20}
+            className="flex-shrink-0 flex w-auto h-5"
+          />
+          <span
+            className={clsx('font-manrope text-xs font-semibold text-white')}
+          >
+            Eng
+          </span>
+          {/* <FaChevronDown className="h-5 w-5 cursor-pointer text-white" /> */}
+        </div>
       </div>
     </div>
   )
