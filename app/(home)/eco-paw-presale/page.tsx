@@ -268,10 +268,17 @@ const Tutorial = () => {
                     Centher&apos;s Feeds page.
                   </li>
                   <li>
-                    If you are on desktop, click on Launchpad List which you
-                    find in the left menu. If you are on mobile, open the menu
-                    by clicking on the menu icon on the top right corner and
-                    then click on Launchpad List.
+                    You can either follow the steps below to navigate to the
+                    EcoPaw launchpad or click on this{' '}
+                    <a
+                      className="text-primary underline"
+                      target="_blank"
+                      href="https://app.centher.io/launchpad/launchpad-list/0x7a5e18b12709ce0b36ed156d4dc309821f3c97b9?list_type=launchpad_overview"
+                    >
+                      link
+                    </a>{' '}
+                    If you want to navigate to the launchpad and learn how to
+                    use Centher you can follow the next steps:
                   </li>
                 </ul>
                 <div className="p-4 border flex justify-center items-center rounded-2xl lg:rounded-3xl border-dark-2/10 bg-gray-shade-2 mb-6 lg:mb-10 xxl:mb-12">
