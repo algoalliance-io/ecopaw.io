@@ -49,12 +49,14 @@ const HeaderComponent = () => {
         <Link
           href="https://ecopaw.io/files/ecopaw-whitepaper.pdf"
           className="font-semibold py-2 px-3 rounded-full flex items-center justify-center text-white"
+          target='_blank'
         >
           WHITEPAPER
         </Link>
         <Link
           href="https://ecopaw.io/files/ecopaw-audit.pdf"
           className="font-semibold py-2 px-3 rounded-full flex items-center justify-center text-white"
+          target='_blank'
         >
           AUDIT
         </Link>
