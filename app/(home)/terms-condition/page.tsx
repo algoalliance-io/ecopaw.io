@@ -13,7 +13,7 @@ const TermsCondition = () => {
       <div className="w-full max-w-[1280px] mx-auto sm:px-10 px-5 xl:px-0">
         <div className="flex justify-center mb-[72px]">
           <Image
-            src="/images/term-desktop.png"
+            src="/images/terms-mobile.png"
             alt="Terms and conditions"
             width={560}
             height={503}
