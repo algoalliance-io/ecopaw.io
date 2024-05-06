@@ -31,7 +31,7 @@ const HeaderComponent = () => {
       )}
     >
       <Link
-        href={'/images/ecopaw-logo.png'}
+        href={'/'}
         className="flex items-center gap-2"
       >
         <Image
