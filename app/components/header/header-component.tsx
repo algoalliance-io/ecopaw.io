@@ -30,10 +30,7 @@ const HeaderComponent = () => {
           'bg-dark-3/50 backdrop-blur-lg',
       )}
     >
-      <Link
-        href={'/images/ecopaw-logo.png'}
-        className="flex items-center gap-2"
-      >
+      <Link href="/" className="flex items-center gap-2">
         <Image
           src="/images/ecopaw-logo.png"
           alt="logo"
@@ -49,14 +46,14 @@ const HeaderComponent = () => {
         <Link
           href="https://ecopaw.io/files/ecopaw-whitepaper.pdf"
           className="font-semibold py-2 px-3 rounded-full flex items-center justify-center text-white"
-          target='_blank'
+          target="_blank"
         >
           WHITEPAPER
         </Link>
         <Link
           href="https://ecopaw.io/files/ecopaw-audit.pdf"
           className="font-semibold py-2 px-3 rounded-full flex items-center justify-center text-white"
-          target='_blank'
+          target="_blank"
         >
           AUDIT
         </Link>

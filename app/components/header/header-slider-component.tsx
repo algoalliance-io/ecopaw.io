@@ -22,10 +22,7 @@ export const HeaderSliderComponent = () => {
 
   return (
     <div className="fixed top-0 z-[100] px-4 flex items-center justify-between lg:hidden py-3 w-full bg-[#111214]/70">
-      <Link
-        href={'/images/ecopaw-logo.png'}
-        className="flex items-center gap-2"
-      >
+      <Link href={'/'} className="flex items-center gap-2">
         <Image
           src="/images/ecopaw-logo.png"
           alt="logo"
