@@ -58,7 +58,8 @@ const HeaderComponent = () => {
           AUDIT
         </Link>
         <Link
-          href="/eco-paw-presale"
+          href="https://www.pinksale.finance/launchpad/bsc/0x758B07D0Ab2F2a78765Cf85FF3BAE3eC8d137d41?refId=0x5BA4996aB7e2DaFb6Ff8D7047342eC7734b4fBCB"
+          target="_blank"
           className="font-semibold text-dark-7 py-2 px-7 rounded-full flex items-center justify-center bg-white"
         >
           Join Presale
